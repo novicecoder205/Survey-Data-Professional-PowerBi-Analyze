@@ -16,3 +16,5 @@ Looking at the dataset, the columns are the following:
 
 ### 3. Data is about:
 
+. This dataset is an anonamous general poll query asking programmeers about how did they moves into Data field specifically, material include age group, country of origins, ethnnicities, favourite programming language, and if they are happy in their positions.
+
