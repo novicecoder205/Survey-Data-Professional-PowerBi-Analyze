@@ -1,20 +1,25 @@
-### Project PowerBi: Visualization of data.
+### Project Power BI: Data Visualization.
 
-### 1. Goal:
+##### 1. Goal:
 
-### 2. Look at the data:
+Using Power BI to investigate and analyze a dataset collected from a professional survey. The dataset contains opinions and information related to careers, programming language usage, salaries, and other factors within the data profession. The objective is to determine what the data reveals about careers in the field of data analysis.
 
-Looking at the dataset, the columns are the following:
+##### 2. Looking at the Data:
 
-. There are 28 columns, and 630 rows in total, many are different way of saying one and the same thing like SQL, Favour Language SQL.
+After reviewing the dataset, the following observations were made:
 
-. Email are anomanous, which is a given, no need to collect email. 
+. The dataset contains 28 columns and 630 rows in total. Several columns represent similar information but are labeled differently, such as “SQL” and “Favourite Programming Language: SQL”.
 
-. Date all these query was taken was in June, 2022, from the 10 to 26, there is also a time columns to go along with the date columns.
+. Email addresses are anonymous, which is expected, and there is no need to collect personal email information.
 
-. Some empty columns that can be deletes after, some columns about the jobs title the people would consider their skill to fit as, follow by salary, if they switch into data career, countries of origins etc. 
+. The survey data was collected between June 10 and June 26, 2022. There is also a time column associated with the date column.
 
-### 3. Data is about:
+. Some columns contain empty values and can be removed during the data cleaning process. Other columns include job titles, expected salary after switching into a data career, country of origin, and related information.
 
-. This dataset is an anonamous general poll query asking programmeers about how did they moves into Data field specifically, material include age group, country of origins, ethnnicities, favourite programming language, and if they are happy in their positions.
+##### 3. The Data is About:
 
+. This dataset is an anonymous general survey asking programmers about their transition into the data field. The information includes age groups, countries of origin, ethnicities, favourite programming languages, and whether participants are satisfied with their current positions.
+
+##### 4. Question answered:
+
+1. Count of Survey taker:
