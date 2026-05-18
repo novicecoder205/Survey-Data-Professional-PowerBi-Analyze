@@ -23,3 +23,19 @@ After reviewing the dataset, the following observations were made:
 ##### 4. Question answered:
 
 1. Count of Survey taker:
+   
+<img width="755" height="692" alt="image" src="https://github.com/user-attachments/assets/d3cf55fc-0757-4e5e-9970-cdcbab562a37" />
+
+2. Count of Average Age:
+
+<img width="972" height="671" alt="image" src="https://github.com/user-attachments/assets/faa4613a-93bd-494a-8192-b6a5b67d5ecb" />
+
+3. Average rating of happiness in worklife balance:
+
+<img width="972" height="777" alt="image" src="https://github.com/user-attachments/assets/5d2ceb02-d469-4660-8bec-9d68f319be2c" />
+
+4. Average rating of happiness with salary:
+
+<img width="957" height="780" alt="image" src="https://github.com/user-attachments/assets/e3668bee-069c-4319-aa49-e443fc2fd87d" />
+
+
