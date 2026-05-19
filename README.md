@@ -22,6 +22,10 @@ After reviewing the dataset, the following observations were made:
 
 ##### 4. Question answered:
 
+Finish product:
+
+<img width="1315" height="748" alt="image" src="https://github.com/user-attachments/assets/2d0adfac-503a-48aa-a8d1-af93f644d1e4" />
+
 1. Count of Survey taker:
    
 <img width="755" height="692" alt="image" src="https://github.com/user-attachments/assets/d3cf55fc-0757-4e5e-9970-cdcbab562a37" />
