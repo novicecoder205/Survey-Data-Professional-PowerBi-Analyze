@@ -38,4 +38,19 @@ After reviewing the dataset, the following observations were made:
 
 <img width="957" height="780" alt="image" src="https://github.com/user-attachments/assets/e3668bee-069c-4319-aa49-e443fc2fd87d" />
 
+5. Country of Survey Taker:
+
+<img width="942" height="717" alt="image" src="https://github.com/user-attachments/assets/097ad732-7d43-43bd-bbee-7269db941114" />
+
+6. Average salary of each job:
+
+<img width="929" height="628" alt="image" src="https://github.com/user-attachments/assets/644a1a1e-776b-4472-aa41-024ed996b10e" />
+
+7. Favourite programming language:
+
+<img width="920" height="424" alt="image" src="https://github.com/user-attachments/assets/0621e610-1a7a-4815-936e-d3dc4eeebd75" />
+
+8. Salary different according to gender:
+
+<img width="933" height="670" alt="image" src="https://github.com/user-attachments/assets/2d18aa39-0c0d-4a2b-b149-caff55dab002" />
 
